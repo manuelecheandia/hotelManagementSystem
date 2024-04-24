@@ -1,0 +1,332 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Service\\Hotel.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\manue\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Types\\Hotel.Types.csproj": {
+                "projectPath": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Types\\Hotel.Types.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Model\\Hotel.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Model\\Hotel.Model.csproj",
+        "projectName": "Hotel.Model",
+        "projectPath": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Model\\Hotel.Model.csproj",
+        "packagesPath": "C:\\Users\\manue\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Repo\\Hotel.Repo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Repo\\Hotel.Repo.csproj",
+        "projectName": "Hotel.Repo",
+        "projectPath": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Repo\\Hotel.Repo.csproj",
+        "packagesPath": "C:\\Users\\manue\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Repo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\DAL\\DAL.csproj"
+              },
+              "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Model\\Hotel.Model.csproj": {
+                "projectPath": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Model\\Hotel.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Service\\Hotel.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Service\\Hotel.Service.csproj",
+        "projectName": "Hotel.Service",
+        "projectPath": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Service\\Hotel.Service.csproj",
+        "packagesPath": "C:\\Users\\manue\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Repo\\Hotel.Repo.csproj": {
+                "projectPath": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Repo\\Hotel.Repo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Types\\Hotel.Types.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Types\\Hotel.Types.csproj",
+        "projectName": "Hotel.Types",
+        "projectPath": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Types\\Hotel.Types.csproj",
+        "packagesPath": "C:\\Users\\manue\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\N-tier\\hotelaubergehotel\\Application\\Hotel_HotelAuberge\\Hotel_HotelAuberge.Types\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\manue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

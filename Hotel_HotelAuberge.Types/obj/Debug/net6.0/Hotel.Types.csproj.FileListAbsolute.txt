@@ -1,0 +1,13 @@
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\Hotel_HotelAuberge.Types\bin\Debug\net6.0\Hotel.Types.deps.json
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\Hotel_HotelAuberge.Types\bin\Debug\net6.0\Hotel.Types.dll
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\Hotel_HotelAuberge.Types\bin\Debug\net6.0\Hotel.Types.pdb
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\Hotel_HotelAuberge.Types\obj\Debug\net6.0\Hotel.Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\Hotel_HotelAuberge.Types\obj\Debug\net6.0\Hotel.Types.AssemblyInfoInputs.cache
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\Hotel_HotelAuberge.Types\obj\Debug\net6.0\Hotel.Types.AssemblyInfo.cs
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\Hotel_HotelAuberge.Types\obj\Debug\net6.0\Hotel.Types.csproj.CoreCompileInputs.cache
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\Hotel_HotelAuberge.Types\obj\Debug\net6.0\Hotel.Types.sourcelink.json
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\Hotel_HotelAuberge.Types\obj\Debug\net6.0\Hotel.Types.dll
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\Hotel_HotelAuberge.Types\obj\Debug\net6.0\refint\Hotel.Types.dll
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\Hotel_HotelAuberge.Types\obj\Debug\net6.0\Hotel.Types.pdb
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\Hotel_HotelAuberge.Types\obj\Debug\net6.0\ref\Hotel.Types.dll
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\Hotel_HotelAuberge.Types\obj\Debug\net6.0\Hotel.Types.csproj.AssemblyReference.cache

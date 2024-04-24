@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{E0E9E626-86D9-4178-AC48-66A192E8A64A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel.Model", "Hotel_HotelAuberge.Model\Hotel.Model.csproj", "{427124C9-ED81-41FE-B4F3-689E840DA741}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel.Service", "Hotel_HotelAuberge.Service\Hotel.Service.csproj", "{4363CD5C-DF14-40ED-BEC1-09442B6B619B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel.Types", "Hotel_HotelAuberge.Types\Hotel.Types.csproj", "{E6C80753-ECA0-495F-87B6-A46A769B7354}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hotelaubergehotel.WinFrontEnd", "Hotel_Auberge\hotelaubergehotel.WinFrontEnd.csproj", "{FD3FB793-017C-4BF7-8C5C-23939EB7C3A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extensions", "Extensions\Extensions.csproj", "{2DB536F6-917C-4158-AF30-FA877B01039B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel.Repo", "Hotel_HotelAuberge.Repo\Hotel.Repo.csproj", "{473F9C12-1072-4D38-B62D-1DDAFDE55AF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0E9E626-86D9-4178-AC48-66A192E8A64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0E9E626-86D9-4178-AC48-66A192E8A64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0E9E626-86D9-4178-AC48-66A192E8A64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0E9E626-86D9-4178-AC48-66A192E8A64A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{427124C9-ED81-41FE-B4F3-689E840DA741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{427124C9-ED81-41FE-B4F3-689E840DA741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{427124C9-ED81-41FE-B4F3-689E840DA741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{427124C9-ED81-41FE-B4F3-689E840DA741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4363CD5C-DF14-40ED-BEC1-09442B6B619B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4363CD5C-DF14-40ED-BEC1-09442B6B619B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4363CD5C-DF14-40ED-BEC1-09442B6B619B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4363CD5C-DF14-40ED-BEC1-09442B6B619B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6C80753-ECA0-495F-87B6-A46A769B7354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C80753-ECA0-495F-87B6-A46A769B7354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C80753-ECA0-495F-87B6-A46A769B7354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C80753-ECA0-495F-87B6-A46A769B7354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD3FB793-017C-4BF7-8C5C-23939EB7C3A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD3FB793-017C-4BF7-8C5C-23939EB7C3A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD3FB793-017C-4BF7-8C5C-23939EB7C3A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD3FB793-017C-4BF7-8C5C-23939EB7C3A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DB536F6-917C-4158-AF30-FA877B01039B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB536F6-917C-4158-AF30-FA877B01039B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB536F6-917C-4158-AF30-FA877B01039B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB536F6-917C-4158-AF30-FA877B01039B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473F9C12-1072-4D38-B62D-1DDAFDE55AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473F9C12-1072-4D38-B62D-1DDAFDE55AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473F9C12-1072-4D38-B62D-1DDAFDE55AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473F9C12-1072-4D38-B62D-1DDAFDE55AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BF6330B-FA72-4B6D-801A-292A592366CE}
+	EndGlobalSection
+EndGlobal

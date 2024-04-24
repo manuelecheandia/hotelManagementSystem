@@ -1,0 +1,16 @@
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\DAL\bin\Debug\net6.0\DAL.dll
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\DAL\bin\Debug\net6.0\DAL.pdb
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\DAL\bin\Debug\net6.0\Hotel.Types.dll
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\DAL\bin\Debug\net6.0\Hotel.Types.pdb
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\DAL\obj\Debug\net6.0\DAL.dll
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\DAL\obj\Debug\net6.0\DAL.pdb
+C:\src\N-tier\hotelaubergehotel\Application\Hotel_HotelAuberge\DAL\obj\Debug\net6.0\ref\DAL.dll
